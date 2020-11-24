@@ -1,0 +1,15 @@
+
+public class StringApp {
+
+	public static void main(String[] args) {
+		System.out.println("Hello World"); //String
+		System.out.println('R'); // Character
+		System.out.println("R");
+		
+		System.out.println("Hello"
+				+ "World");
+		
+		
+	}
+
+}
