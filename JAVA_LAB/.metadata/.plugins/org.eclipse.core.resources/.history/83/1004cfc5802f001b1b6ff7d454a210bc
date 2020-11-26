@@ -1,0 +1,27 @@
+package sec02.exam03;
+
+public class TIre {
+	// field
+	public int maxRoation;
+	public int accumulatedRotation;
+	public String location;
+	
+	// constructor
+	public Tire(String location, int maxRoation) {
+		this.location = location;
+		this.maxRoation = maxRoation;
+	}
+
+	// method
+	public boolean roll() {
+		++accumulatedRotation;
+		if(accumulatedRotation<maxRotation) {
+			System.out.println(location + "Tire Lifetime: "
+					+ (maxRoation-accumulatedRotation) + "times");
+			return true;
+		} else {
+			System.out.println("*** " + location + "Tire punk ***");
+			return false;
+		}
+	}
+}
