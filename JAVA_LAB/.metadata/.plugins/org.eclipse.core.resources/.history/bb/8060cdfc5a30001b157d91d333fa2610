@@ -1,0 +1,10 @@
+package sec01.exam05;
+
+public class SmartTelevisionExample {
+	public static void main(string[] args) {
+		smartTelevision tv = new SmartTelevision();
+		
+		RemoteControl rc = tv;
+		searchable searchable = tv;
+	}
+}

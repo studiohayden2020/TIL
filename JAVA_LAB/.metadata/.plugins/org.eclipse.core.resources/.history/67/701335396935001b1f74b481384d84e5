@@ -1,0 +1,17 @@
+package december03;
+
+public class Method2 {
+	public static void main(Strig[] args) {
+		
+		String test = Hello();
+		
+		System.out.println(test);
+		
+	}
+	
+	public static void Hello() {
+		System.out.println("Hello World");
+		return;
+	}
+
+}

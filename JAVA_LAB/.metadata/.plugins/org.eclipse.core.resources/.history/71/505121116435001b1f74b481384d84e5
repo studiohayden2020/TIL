@@ -1,0 +1,15 @@
+package december03;
+
+public class method {
+	public static void main(String[] args) {
+		
+		public static int Square(int n {
+			int result;
+			result = n * n;
+			return result;
+		});
+		
+		n = 5;
+		System.out.println((Square), 6);
+	}
+}

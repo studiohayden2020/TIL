@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;alone__java_CH07&apos; to &apos;alone_java_CH07&apos;&#x0D;&#x0A;- Original element: &apos;alone__java_CH07&apos;&#x0D;&#x0A;- Renamed element: &apos;alone__java_CH07&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;alone__java_CH07&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=alone__java_CH07" name="alone_java_CH07" references="true" stamp="1606717429836" version="1.0"/>
+</session>

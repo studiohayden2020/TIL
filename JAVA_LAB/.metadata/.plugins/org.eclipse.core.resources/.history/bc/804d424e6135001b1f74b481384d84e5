@@ -1,0 +1,12 @@
+package december03;
+
+public class Println2 {
+
+	public static void main(String[] args) {
+		
+		System.out.println("줄바꾸기 테스트");
+
+		System.out.println("줄바꾸기 테스트");
+	}
+
+}

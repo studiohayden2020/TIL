@@ -1,0 +1,18 @@
+package sec01.exam06;
+
+public class Button {
+	onClickListener listener;
+	
+	void setOnClickListener(OnClickListener listener) {
+		this.listener = listener;
+	}
+	
+	vlid touch() {
+		listener.onClick();
+	}
+	
+	static interface OnClickListener {
+		void onClick();
+	}
+
+}

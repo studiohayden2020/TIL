@@ -1,0 +1,29 @@
+package sec01.exam05;
+
+import sec01.exam03.RemoteControl;
+
+public class MyClass {
+	// field
+	RemoteControl rc = new Television();
+	
+	// constructor
+	MyClass(){
+	}
+	
+	MyClass(RemoteControl rc){
+		this.rc = rc;
+		rc.turnOn();
+		tc.setVolume(5);
+		}
+	
+	// method
+	void methodA() {
+		RemoteControl rc = new Audio();
+		rc.turnOn();
+		rc.setVolume(5);
+	}
+	void methodB(RemoteControl rc) {
+		rc.turnOn();
+		rc.setVolume(5);
+	}
+}

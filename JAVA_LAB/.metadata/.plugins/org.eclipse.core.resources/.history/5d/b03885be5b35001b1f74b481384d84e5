@@ -1,0 +1,13 @@
+package december03;
+
+public class casting {
+	public static void main(String[] args) {
+	
+		double a = 9.3334;
+		double b = 3.64353;
+		
+		double c = (int) (a % b);
+		
+		System.out.println(c);
+	}
+}

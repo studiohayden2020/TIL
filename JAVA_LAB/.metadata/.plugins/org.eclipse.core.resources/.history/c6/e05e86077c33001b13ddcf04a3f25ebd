@@ -1,0 +1,12 @@
+package sec01.exam04;
+
+public class ToStringExample {
+
+	public static void main(String[] args) {
+		Ovejct obj1 = new object();
+		Date obj2 = new Date();
+		System.out.println(obj1.toString());
+		System.out.println(obj2.toString());
+	}
+
+}
