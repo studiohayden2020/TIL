@@ -4,10 +4,11 @@ public class Method2 {
 	public static void main(String[] args) {
 		
 		double R = Math.random();
+//		String A = printHello();
 	
 		
 		System.out.println(R);
-		System.out.println();
+//		System.out.println(A);
 		
 	}
 	

@@ -6,15 +6,9 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\JAVA_LAB\Chapter8"/>
 			<item value="C:\JAVA_LAB\First"/>
-			<item value="C:\JAVA_LAB\Chapter6"/>
+			<item value="C:\JAVA_LAB\SelfTrainning"/>
 		</list>
-	</section>
-	<section name="ResourceNavigator">
-		<item key="ResourceViewer.STORE_SORT_TYPE" value="1"/>
-		<item key="ResourceWorkingSetFilter.STORE_WORKING_SET" value="Aggregate for window 1605745600282"/>
-	</section>
-	<section name="org.eclipse.ui.internal.ide.dialogs.ProjectContentsLocationArea">
-		<item key="OUTSIDE_LOCATION" value="C:\Users\Studio\Desktop\JAVA1\HelloWorldGUI [java1 master]"/>
 	</section>
 </section>

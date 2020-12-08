@@ -1,10 +1,10 @@
 package inheritance;
 
 public class VIPCustomerExample {
-	private int customerID;
-	private String customerName;
-	private String customerGrade;
-	ind bonusPoint;
+	protected int customerID;
+	protected String customerName;
+	protected String customerGrade;
+	int bonusPoint;
 	double bonusRatio;
 	
 	private int agentID;
@@ -17,7 +17,7 @@ public class VIPCustomerExample {
 	}
 	
 	public int calPrice(int price) {
-		bonusPoint += Price * bonusRatio;
+		bonusPoint += price * bonusRatio;
 		return price - (int)(price * saleRatio);
 	}
 	

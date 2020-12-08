@@ -13,6 +13,13 @@ public class VIPCustomer extends Customer {
 		System.out.println("VIPCustomer(int, String, int) 생성자 호출");
 	}
 	
+//	public VIPCustomer() {
+//		customerGrade = "VIP";
+//		bonusRatio = 0.05;
+//		saleRatio = 0.1;
+//		System.out.println("Customer() 생성자 호출");
+//	}
+//	
 	public int getAgentID() {
 		return agentID;
 	}
